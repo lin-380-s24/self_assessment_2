@@ -1,4 +1,4 @@
-# README
+# Self-assessment #2
 
 ## Preparation
 
@@ -6,6 +6,7 @@
   - [Textbook reading and annotations](https://qtalr.github.io/book)
   - [Recipes #2, #3, and #4 reading and annotations](https://qtalr.github.io/qtalrkit/articles/)
   - Labs #2, #3, and #4
+  - Project step #2: Research question
 
 ## Objectives
 
@@ -17,8 +18,8 @@
 ### Setup
 
 1. Create a new RStudio project for this assignment. Title it "self_assessment_2".
-1. Create a new Quarto document. Title it "Self-assessment #2" and provide add your name as the author.
-2. Delete all the material below the front matter
+2. Create a new Quarto document. Title it "Self-assessment #2" and provide add your name as the author.
+3. Delete all the material below the front matter
 
 ### Respond
 
@@ -39,6 +40,6 @@ Format your response using Markdown syntax as needed.
 
 ## Submission
 
-1. Render your Quarto document as a PDF or Word document
-2. Access this file output file.
-3. Submit your file the Canvas assignment page for "Self-assessment #2"
+1. Render your Quarto document
+2. Push your repository to GitHub
+3. [ ] TBD
