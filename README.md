@@ -1,9 +1,5 @@
 # README
 
-<!-- REMEMBER:
-You can preview a formatted version of this README.md document by clicking the 'Preview' button in the RStudio toolbar.
--->
-
 ## Preparation
 
 - Review your learning progress on:
@@ -20,6 +16,7 @@ You can preview a formatted version of this README.md document by clicking the '
 
 ### Setup
 
+1. Create a new RStudio project for this assignment. Title it "self_assessment_2".
 1. Create a new Quarto document. Title it "Self-assessment #2" and provide add your name as the author.
 2. Delete all the material below the front matter
 
@@ -43,5 +40,5 @@ Format your response using Markdown syntax as needed.
 ## Submission
 
 1. Render your Quarto document as a PDF or Word document
-2. Download this file.
-3. Submit your file to me via email with the subject line "Self-assessment #2"
+2. Access this file output file.
+3. Submit your file the Canvas assignment page for "Self-assessment #2"
