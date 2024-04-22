@@ -6,7 +6,7 @@
   - [Textbook reading and annotations](https://qtalr.github.io/book)
   - [Recipes #2, #3, and #4 reading and annotations](https://qtalr.github.io/qtalrkit/articles/)
   - Labs #2, #3, and #4
-  - Project step #2: Research statement
+  - [Project step #2: Research statement](https://github.com/lin-380-s24/self_assessment_2)
 
 ## Objectives
 
